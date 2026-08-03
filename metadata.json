@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Rahman Fast Food",
+  "description": "Premium black and gold fast food ordering app with real-time order tracking, payment verification, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
